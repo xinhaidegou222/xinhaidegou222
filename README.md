@@ -35,3 +35,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :woman_technologist: About Me : I am a Stupid Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+- :telescope: My programming skills are very very <img src="https://tenor.com/vi/view/uncle-roger-so-weak-gif-19589076.gif" width="100">
+
+- :seedling: I am a <img src="https://tenor.com/vi/view/uncle-roger-failure-roger-singaporean-comedy-gif-18106918.gif" width="100"> 
+
+- :zap: In my free time, I usually do silly things. <img src="https://tenor.com/vi/view/uncle-roger-haiya-funny-gif-18052423.gif" width="100"> 
+
+- :mailbox:How to ignore me: Do not click everything from my profile 👀
+
